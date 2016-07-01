@@ -1,0 +1,12 @@
+{
+    "latest_version":"1.0.1",
+    "is_admob_in_grid":true,
+    "is_admob":true,
+    "version":"PRODUCTION",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/famous_people/master/draw_famous_people_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/famous_people/master/draw_famous_people_category_alpha.json",
+    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/famous_people/master/",
+    "admob_banner_id":"ca-app-pub-4322965078780162/3713642336",
+    "admob_interstitial_id":"ca-app-pub-4322965078780162/5190375532",
+    "itune_url":"http://itunes.apple.com/app/id1126278121"
+}
