@@ -50,6 +50,31 @@
                               "anime_id": "9",
                               "anime_name": "Madonna",
                               "anime_step":15
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Adriana Lima",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Katy Perry",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Emma Watson",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Tom Cruise",
+                              "anime_step":16
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Tyra Banks",
+                              "anime_step":16
                               }
                               ]
                    },
