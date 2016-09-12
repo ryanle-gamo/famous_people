@@ -1,5 +1,59 @@
 {
     "categories": [{
+                   "category_id": "3009",
+                   "category_name": "Special Pictures",
+                   "category_thumbnail": "3009.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/famous_people/master/",
+                   "file_extension": "png",
+                   "is_video": "false",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Justin Timberlake",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Keira Christina Knightley",
+                              "anime_step":18
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Rihanna",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Cameron Diaz",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Michael Jackson",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Tyra Banks",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Angelina Jolie",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Beyonce",
+                              "anime_step":17
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Madonna",
+                              "anime_step":15
+                              }
+                              ]
+                   },
+                   {
                    "category_id": "3000",
                    "category_name": "Celebrities",
                    "category_thumbnail": "3000.png",
